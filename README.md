@@ -1,2 +1,2 @@
 # coolpaiweather
-学习安卓时的天气app，有超多的不足。
+This is a android app about weather by studying . 
